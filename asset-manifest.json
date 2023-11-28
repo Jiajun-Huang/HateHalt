@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.79791734.css",
-    "main.js": "/static/js/main.792ea35b.js",
+    "main.js": "/static/js/main.e3331605.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/nwPlus_Logo.svg": "/static/media/nwPlus_Logo.9fcaac15a49b6c4555e47e5ea09ba49c.svg",
     "index.html": "/index.html",
     "main.79791734.css.map": "/static/css/main.79791734.css.map",
-    "main.792ea35b.js.map": "/static/js/main.792ea35b.js.map",
+    "main.e3331605.js.map": "/static/js/main.e3331605.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79791734.css",
-    "static/js/main.792ea35b.js"
+    "static/js/main.e3331605.js"
   ]
 }
